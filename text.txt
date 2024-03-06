@@ -1,3 +1,4 @@
 Hello world
 root deleted
 new data
+v1.0
